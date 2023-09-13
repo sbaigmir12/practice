@@ -1,1 +1,3 @@
-This is Sattar.
+#!/bin/bash/
+
+echo "This is Sattar"
